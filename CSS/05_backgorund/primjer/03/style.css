@@ -1,0 +1,16 @@
+body {
+    font-family: Tahoma, sans-serif;
+    font-size: 16px;
+    color: #333;
+    background-color: #ddd;
+}
+p:first-of-type {
+    background: #ffc url(../../../images/images/light-bulb.png) center center/contain no-repeat;
+    color: aqua;
+}
+p:nth-of-type(3) {
+    background: rgb(73, 73, 110) url(../../../images/images/orange.png) right top/150px no-repeat
+    url(../../../images/images/butterfly.png) left center/contain no-repeat
+    url(../../../images/images/coffee-cup.png) center center/contain no-repeat
+    #ccf url(../../../images/images/pattern.png);
+}

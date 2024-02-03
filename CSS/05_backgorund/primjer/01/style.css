@@ -1,0 +1,24 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #333;
+    background-color: rgb(194, 204, 207);
+}
+h1 {
+    background-color: pink;
+}
+p {
+    background-color: rgb(214, 218, 220);
+}
+header {
+    background-color: green;
+}
+nav {
+    background-color: white;
+}
+main {
+    background-color: aqua;
+}
+footer {
+    background-color: brown;
+}
